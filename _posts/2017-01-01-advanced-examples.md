@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![ETF image](/assets/ETF.png))
+![ETF image](/assets/ETF.jpg))
 
 
 ## Images
