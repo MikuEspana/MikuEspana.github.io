@@ -1,11 +1,11 @@
 ---
-title:  "Advanced examples"
+title:  "So what are ETFs"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![ETF image](https://wealthdesk.in/wp-content/uploads/2021/10/Advantages-of-Exchange-Traded-Funds-ETFs.png)
 
 
 ## MathJax
